@@ -55,7 +55,10 @@ Attacker could apply different methods based on attacker context.
 | :----:                                 | ----        | ----------- |
 | [Classical Cryptografy](./Classical.ipynb)   | 11/03/2021  | Transposition and substitution ciphers |
 | [Symmetric Cryptografy - Block Cipher](./Symmetrical/Block%20Cipher.ipynb)   | 25/03/2021  | Block Ciphers: DES/AES and Cipher Modes.  |
-| [Symmetric Cryptografy - Stream Ciphers](./Symmetrical/Block%20Stream%20Cipher.ipynb)   | 08/04/2021  | Asymmetric ciphers: RC4 |
+| [Symmetric Cryptografy - Stream Ciphers](./Symmetrical/Block%20Stream%20Cipher.ipynb)   | 08/04/2021  | Symmetric ciphers: RC4 |
 | [Symmetric Cryptografy - Random Number Generator](./Random%20Number%20Generator.md)   | 08/04/2021  | Random Numbers Generators: TRNG, PRNG and PRF |
+| [Asymmetric Cryptografy - Math](./Asymmetrical/Math.ipynb)   | 14/04/2021  | Theory of Numbers and finite fields |
+| [Asymmetric Cryptografy - RSA](./Asymmetrical/RSA.ipynb)   | 14/04/2021  | **R**ivest–**S**hamir–**A**dleman Cryptosystem |
+| [Asymmetric Cryptografy - Diffie Hellman Exchange](./Asymmetrical/Diffie_Hellman.ipynb)   | 21/04/2021  | Diffie–Hellman key exchange |
 | [Hash Cryptografy ](./Hash/SHA.ipynb)   | 08/04/2021  | Hash Functions: MD5 and SHA |
 
